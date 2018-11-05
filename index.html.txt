@@ -2,9 +2,11 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-Бешееду>Document</tittle>
+<tittle>Document</tittle>
 </head>
 <body>
 <h1>GIT test</h1>
+<p>Новое изменение</p>
 </body>
 </html>
+
